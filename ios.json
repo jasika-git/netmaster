@@ -1,8 +1,8 @@
 {
 	"active":true,
 	"name":"EverVPN",
-	"title":"轻松一键科学上网"，
-	"description":"iOS/Android/macOS/Windows全平台支持，全球1000万用户的选择。支持1080P视频，无限流量，新用户免费试用。"
-	"domain":"everfast.info"
+	"title":"轻松一键科学上网",
+	"description":"iOS/Android/macOS/Windows全平台支持，全球1000万用户的选择。支持1080P视频，无限流量，新用户免费试用。",
+	"domain":"everfast.info",
 	"url":"https://everfast.info?from=netmaster"
 }
